@@ -1,0 +1,9 @@
+public class PrintMethod{
+  public static void main(String[] args){
+    System.out.print("Student Name : Bob Jones");
+    System.out.print("Student ID : W1215445425");
+    System.out.print("Student Major : Business Management");
+    System.out.print("Student Class : Freshmen");
+    System.out.print("Student GPA : 3.2");
+  }
+}
